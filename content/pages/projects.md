@@ -16,10 +16,81 @@ During the spring of 2005, student presentations were recorded especially for Op
 
 Video: ([MP4 - 101 MB](https://archive.org/download/MIT21F.716S05/ocw-21f.716-14n-313-10may2005-220k.mp4))
 
-| SEG # | SEGMENT TOPICS | STARTS AT (H:MIN:SEC) |
-| --- | --- | --- |
-| 1 | Presentación 1 | 0:00:00 |
-| 2 | Presentación 2 | 0:03:14 |
-| 3 | Presentación 3 | 0:08:05 |
-| 4 | Presentación 4 | 0:25:41 |
-| 5 | Presentación 5 | 0:41:22
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SEG #
+{{< thclose >}}
+{{< thopen >}}
+SEGMENT TOPICS
+{{< thclose >}}
+{{< thopen >}}
+STARTS AT (H:MIN:SEC)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Presentación 1
+{{< tdclose >}}
+{{< tdopen >}}
+0:00:00
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Presentación 2
+{{< tdclose >}}
+{{< tdopen >}}
+0:03:14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Presentación 3
+{{< tdclose >}}
+{{< tdopen >}}
+0:08:05
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Presentación 4
+{{< tdclose >}}
+{{< tdopen >}}
+0:25:41
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Presentación 5
+{{< tdclose >}}
+{{< tdopen >}}
+0:41:22
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
