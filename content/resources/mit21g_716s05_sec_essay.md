@@ -5,6 +5,7 @@ description: This resource contains the information regarding introduction to co
   april.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/9b6f94b7b49d77f39516bebbc7ebdf26_MIT21G_716S05_sec_essay.pdf
 file_type: application/pdf
+parent_uid: 0f7a06e8-ca91-215f-e849-5bf3e6f7d7b2
 resourcetype: Document
 title: 'Introduction to Contemporary Hispanic Literature:  Second essay:  Please hand-
   in hard copy  on my door by 5 PM,  Friday, April'
